@@ -1,0 +1,8 @@
+{
+  "name": "Neon Tic-Tac-Toe",
+  "description": "A polished dark-themed Tic-Tac-Toe game with a random AI opponent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
